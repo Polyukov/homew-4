@@ -1,0 +1,7 @@
+		[
+		{ "firstname" : "Иван", "adress" : "Peterburg", "phonenumber" :6},
+		{ "firstname" : "Андрей", "adress" : "Moscow", "phonenumber" :5},
+		{ "firstname" : "Александр", "adress" : "Bryansk", "phonenumber" :10},
+		{ "firstname" : "Петр", "adress" : "Vitebsk", "phonenumber" :11},
+		
+		]
